@@ -163,6 +163,3 @@ const britishScrape = async () => {
 
 module.exports = britishScrape;
 
-// const britishScrape = require("./british-coucil")
-
-// britishScrape()
